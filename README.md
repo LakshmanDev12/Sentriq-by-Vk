@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Sentriq Logo" width="180"/>
+<img src="Sentriq.png" alt="Sentriq Logo" width="180"/>
 
 # 🛡️ Sentriq
 
