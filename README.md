@@ -31,13 +31,13 @@ Built entirely with **Kotlin and Jetpack Compose**, Sentriq combines a clean, mo
 
 <div align="center">
 
-| Splash & Login | Live Map | Saved Places |
+| Splash Screen | Live Map | Dashboard |
 |---|---|---|
-| *screenshot* | *screenshot* | *screenshot* |
+| <img src="Splash.png"/> | <img src="Map.png"/>  | <img src="Dash.png"/>  |
 
-| Friend Requests | Safety Zones | Emergency Alerts |
+| Friends Page | Tracking Friends | Mark Zons |
 |---|---|---|
-| *screenshot* | *screenshot* | *screenshot* |
+| <img src="friends.png"/>  | <img src="track.png"/>  | <img src="Mark.png"/>  |
 
 </div>
 
