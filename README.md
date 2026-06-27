@@ -41,8 +41,6 @@ Built entirely with **Kotlin and Jetpack Compose**, Sentriq combines a clean, mo
 
 </div>
 
-> Replace the placeholders above with real screenshots or a screen recording — drop image files into an `assets/` folder and reference them, e.g. `![Live Map](assets/map.png)`.
-
 ---
 
 ## ✨ Features
