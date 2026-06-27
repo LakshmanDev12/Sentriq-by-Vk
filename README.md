@@ -33,7 +33,7 @@ Built entirely with **Kotlin and Jetpack Compose**, Sentriq combines a clean, mo
 
 | Splash Screen | Live Map | Dashboard |
 |---|---|---|
-| <img src="Splash.png"/> | <img src="Map.png"/>  | <img src="Dash.png"/>  |
+| <img src="Images/Splash.png"/> | <img src="Images/Map.png"/>  | <img src="Dash.png"/>  |
 
 | Friends Page | Tracking Friends | Mark Zons |
 |---|---|---|
