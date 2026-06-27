@@ -109,7 +109,7 @@ Splash → Login / Register / Forgot Password
 ## 🎨 Brand Identity
 
 <div align="center">
-<img src="assets/logo.png" alt="Sentriq Logo" width="140"/>
+<img src="Sentriq.png" alt="Sentriq Logo" width="140"/>
 </div>
 
 Sentriq's visual identity is built around one idea — **a shield that moves with you.**
